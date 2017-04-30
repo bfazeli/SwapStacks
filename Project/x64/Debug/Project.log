@@ -1,0 +1,5 @@
+﻿  Main.cpp
+\\mac\home\desktop\coding\occ\datastructures\labs\lab_09_stacks\project\SwapStacks.h(17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Main.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Project.vcxproj -> \\Mac\Home\Desktop\Coding\OCC\DataStructures\Labs\Lab_09_stacks\x64\Debug\Project.exe
+  Project.vcxproj -> \\Mac\Home\Desktop\Coding\OCC\DataStructures\Labs\Lab_09_stacks\x64\Debug\Project.pdb (Partial PDB)
